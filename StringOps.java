@@ -27,7 +27,10 @@ public class StringOps {
 
     public static String capVowelsLowRest (String string) {
         // Write your code here:
-        return "";
+        String str = "";
+        for (int i = 0; i < string.length(); i++) {
+            char currentChar = input.charAt(i);
+        return str;
     }
 
     public static String camelCase (String string) {

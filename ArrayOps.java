@@ -74,7 +74,7 @@ public class ArrayOps {
         return res;
     }
 
-    public static boolean containsSameElements(int [] array1,int [] array2) {
+    public static boolean containsTheSameElements(int [] array1,int [] array2) {
         // Write your code here:
         int [] ar1 = set(array1);
         int [] ar2 = set(array2);
